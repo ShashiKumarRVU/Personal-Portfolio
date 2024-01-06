@@ -75,7 +75,7 @@
 })()
 function displayGreeting() {
   var userName = document.getElementById("name").value;
-  var greetingMessage = "Hello, " + userName + "! \nWelcome to the Shashi Resume Web page!<br>To visit the website click <a href='https://github.com/ShashiKumarRVU/IWD_rvu/shashi_resume/shashi.html'style='color:yellow'>here</a>";
+  var greetingMessage = "Hello, " + userName + "! \nWelcome to the Shashi Resume Web page!<br>To visit the website click <a href='https://shashikumarrvu.github.io/IWD_rvu/shashi.html'style='color:yellow'>here</a>";
 
   var greetingElement = document.getElementById("greetingMessage");
   greetingElement.innerHTML = greetingMessage;
