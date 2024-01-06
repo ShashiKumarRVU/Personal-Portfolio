@@ -400,19 +400,21 @@ section {
   }
 
   .main {
-    width:30px;
+    width:70px;
     
     margin-left:80%;
   }
 
   #header {
-    width: auto;
+    width: 35%;
   margin-left: 0.2px;
   }
 
   #main {
-    width:auto;
-   
+    width:80%;
+    background-attachment: fixed;
+    overflow: hidden;
+    position: relative;
   }
 
   .section-title h2 {
@@ -440,3 +442,4 @@ section {
     height: 20px;
   }
 }
+
