@@ -8,7 +8,7 @@ body {
   background-attachment: fixed;
    
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 200px) {
   /* Styles for screens smaller than 600px (typical phone width) */
 }
 a {
@@ -392,7 +392,7 @@ section {
     padding-right: 20px 15px;
   }
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 200px) {
   body {
     background-image: url("new-image-for-mobile.jpg");
     /* Add other styles suitable for smaller screens */
